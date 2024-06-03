@@ -1,4 +1,4 @@
 # Lueftersteuerung
 PWM Drehzahlsteuerung, Links-Rechtslauf
 
-![Bild](Lueftersteuerung.png)
+![Bild](pic/Lueftersteuerung.png)
